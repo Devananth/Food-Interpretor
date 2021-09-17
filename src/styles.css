@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: rosybrown;
+  max-width: 800px;
+  margin: auto;
+}
+
+nav {
+  background-color: black;
+  color: white;
+  padding: 2rem;
+  margin: 2rem;
+  border: none;
+  border-radius: 0.6rem;
+}
+
+input {
+  border: none;
+  outline: none;
+  padding: 0.5rem 1.5rem;
+  border-radius: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.output {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.food-emoji {
+  display: inline-block;
+  padding: 2rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
